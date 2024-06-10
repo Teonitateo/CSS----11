@@ -1,0 +1,22 @@
+.box {
+    Height: 168px;
+    Width: 305px;
+    border: 1px solid #DB00FF
+
+}
+.box1 {
+    Height: 121px;
+    Width: 657px;
+    border: 3px dashed #450E4E
+ }
+ .box2 {
+    Height: 95px;
+    Width: 399px;
+    border: 3px solid #04FF4A
+ }
+ .box3 {
+    Height: 173px;
+    Width: 1097px;
+    background-color: #247DAF;
+    border: 3px solid #736E42
+ }
